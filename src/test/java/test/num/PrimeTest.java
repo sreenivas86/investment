@@ -12,6 +12,7 @@ public class PrimeTest {
     @Test
     public void testCsesfalse() {
     	
+    	
        Assert.assertEquals(p.isPrime(2), true);
        Assert.assertEquals(p.isPrime(3), true);
        Assert.assertEquals(p.isPrime(5), true);
