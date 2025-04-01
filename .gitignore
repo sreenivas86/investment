@@ -1,19 +1,14 @@
 # Ignore Maven target directories
 /target/
 
-# Ignore IntelliJ IDEA project files
-.idea/
+
 
 # Ignore Eclipse project files
 .project
 .classpath
 .settings/
 
-# Ignore NetBeans project files
-.nb-gradle/
 
-# Ignore Maven wrapper (if not using it)
-.mvn/wrapper/
 
 # Ignore compiled Java files
 *.class
@@ -41,10 +36,3 @@ Thumbs.db         # Windows
 # Ignore database files (if any)
 *.db
 *.sqlite
-
-# Ignore configuration files that contain sensitive data
-*.properties
-*.yml
-*.yaml
-*.xml
-

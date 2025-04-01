@@ -1,6 +1,7 @@
 package num;
 
 public class Prime {
+	
 	public boolean isPrime(int n) {
 		if (n<1) return false;
 		for(int i=2;i<=Math.sqrt(n);i++)
